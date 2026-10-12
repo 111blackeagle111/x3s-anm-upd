@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "product": "x3solutions-anonimizzatore",
+  "releases": {
+    "linux-x64": {
+      "version": "0.2.4",
+      "notes": "Controllo delle nuove versioni da GitHub, verifica manuale e avviso nell’app. Pulizia automatica delle build e conservazione della versione precedente.",
+      "download_url": null
+    }
+  }
+}
