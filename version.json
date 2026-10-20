@@ -11,6 +11,11 @@
       "version": "0.2.5",
       "notes": "Versione macOS per Apple Silicon con modello X3 v3, nuovo motore PDF e controllo aggiornamenti. Richiede macOS 14 o successivo.",
       "download_url": null
+    },
+    "windows-x64": {
+      "version": "0.2.5",
+      "notes": "Versione Windows x64 di collaudo con modello X3 v3, nuovo motore PDF e controllo aggiornamenti. Installer distribuito separatamente.",
+      "download_url": null
     }
   }
 }
